@@ -1,0 +1,4 @@
+PageRank after 47 iterations:
+Page 0: 0.324561
+Page 1: 0.473684
+Page 2: 1.20175

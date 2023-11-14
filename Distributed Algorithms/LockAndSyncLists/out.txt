@@ -1,0 +1,7 @@
+Inserted 1
+Inserted 2
+Inserted 3
+Found 2 in the list
+Removed 3 from the list
+Cannot remove 5 because it's not in the list
+3 not found in the list

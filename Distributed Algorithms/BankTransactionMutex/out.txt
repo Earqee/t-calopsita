@@ -1,0 +1,2 @@
+Account1 balance after transactions: 350
+Account2 balance after transactions: 450
